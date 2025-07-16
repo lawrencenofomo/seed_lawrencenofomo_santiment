@@ -1,0 +1,13 @@
+{
+    "currency": "",
+    "description": [
+        "Bitcoin developer activity"
+
+    ],
+    "pricescale": [
+        10
+    ],
+    "symbol": [
+        "BTC_DEV_ACTIVITY"
+    ]
+}
